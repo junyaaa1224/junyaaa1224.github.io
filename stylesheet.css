@@ -66,9 +66,8 @@ li {
 }
 
 .contents-item {
-  width: calc(100%/4);
-  margin: 0 40px;
-  box-sizing:border-box;
+  float: left;
+  margin-right: 40px;
 }
 
 .contents-item p {
