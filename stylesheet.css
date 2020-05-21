@@ -67,7 +67,7 @@ li {
 
 .contents-item {
   float: left;
-  margin-right: 25%;
+  margin: 0 center;
 }
 
 .contents-item p {
